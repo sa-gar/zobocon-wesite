@@ -110,7 +110,6 @@
         .cta-buttons {
             display: flex;
             gap: 1rem;
-            
         }
 
         .btn {
@@ -124,12 +123,11 @@
             text-decoration: none;
             display: inline-block;
             text-align: center;
-            
         }
 
         .btn-primary {
             background: var(--primary-light);
-            color: rgb(51, 217, 239);
+            color: white;
         }
 
         .btn-primary:hover {
