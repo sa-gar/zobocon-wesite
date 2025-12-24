@@ -57,7 +57,7 @@
         }
 
         .logo img {
-            height: 36px;
+            height: 60px;
             width: auto;
         }
 
@@ -110,6 +110,7 @@
         .cta-buttons {
             display: flex;
             gap: 1rem;
+            
         }
 
         .btn {
@@ -123,11 +124,12 @@
             text-decoration: none;
             display: inline-block;
             text-align: center;
+            
         }
 
         .btn-primary {
             background: var(--primary-light);
-            color: white;
+            color: rgb(51, 217, 239);
         }
 
         .btn-primary:hover {
